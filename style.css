@@ -6,7 +6,7 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     grid-template-rows:
     100px 100px 50px;
-    border: radius 10px;
+    border-radius: 10px;
     background-color: red
 }
 
